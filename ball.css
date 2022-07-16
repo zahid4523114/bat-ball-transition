@@ -27,7 +27,7 @@
     left: 0px;
   }
   25% {
-    top: 155px;
+    top: 200px;
     left: 100px;
     background-color: red;
   }
@@ -37,7 +37,7 @@
     background-color: yellow;
   }
   75% {
-    top: 155px;
+    top: 200px;
     left: 600px;
     background-color: green;
   }
